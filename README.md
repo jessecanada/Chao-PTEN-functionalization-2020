@@ -2,19 +2,20 @@
 codes that accompany the PTEN functionalization manuscript\
 
 1. Fig. 3
-   - plot_domain_ClinVar.ipynb:\
-       generates the domain organization and ClinVar significance heatmaps
-   - plot_MCF10A_LOF_scores (heatmap).ipynb:\
-       generates the heatmap for visualizing LOF scores\
+- plot_domain_ClinVar.ipynb:\
+    generates the domain organization and ClinVar significance heatmaps
+- plot_MCF10A_LOF_scores (heatmap).ipynb:\
+    generates the heatmap for visualizing LOF scores\
+       
 2. Fig. 4
-        - plot_plot_western_stability.ipynb:\
-            generates the graph in Fig. 4A\
-        - PTEN_stability_LR.ipynb:\
-            computes logistic regression on the mean normalized stability scores\
-            generates the graph in Fig. 4B\
-        - comapre_stability_HEK_SDM.ipynb:\
-            compares stability scores from MCF10A cells, HEK cells and SDM predictions\
-            generates the graphs in Fig. 4C, 4D and 4E\
+- plot_plot_western_stability.ipynb:\
+    generates the graph in Fig. 4A\
+- PTEN_stability_LR.ipynb:\
+    computes logistic regression on the mean normalized stability scores\
+    generates the graph in Fig. 4B\
+- comapre_stability_HEK_SDM.ipynb:\
+    compares stability scores from MCF10A cells, HEK cells and SDM predictions\
+    generates the graphs in Fig. 4C, 4D and 4E\
 Fig. 5\
         - compare_yeast_vs_MCF10A.ipynb:\
             compares LOF scores from yeast (Mighell et al 2018 PMID:29706350)\
