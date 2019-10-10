@@ -26,7 +26,7 @@ Requirements: Python 3 with Jupyter Notebook
     generates the data for Fig. 6A
 - plot_MCF10A_SVM_classification.ipynb:\
     generates the plot in Fig. 6B from SVM classification
-- plot_ROC_PRC_BINARY.ipynb:\
+- plot_ROC_BINARY.ipynb:\
     generates the ROC curves for binary classification in Fig. 6C
 - plot_ROC_multiclass.ipynb:\
     generates the ROC curves for multiclass classification in Fig. 6D
