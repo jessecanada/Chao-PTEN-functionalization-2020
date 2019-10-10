@@ -24,7 +24,7 @@ Requirements: Python 3 with Jupyter Notebook
 - LOF_scores_SVM.ipynb:\
     builds SVM model for classifying LOF scores into 3 classes\
     generates the data for Fig. 6A
-- plot_SVM_classification.ipynb:\
+- plot_MCF10A_SVM_classification.ipynb:\
     generates the plot in Fig. 6B from SVM classification
 - plot_ROC_PRC_BINARY.ipynb:\
     generates the ROC curves for binary classification in Fig. 6C
