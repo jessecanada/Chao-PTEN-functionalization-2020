@@ -2,10 +2,10 @@
 codes that accompany the PTEN functionalization manuscript\
 
 1. Fig. 3
-- plot_domain_ClinVar.ipynb:\
+- plot_domain_ClinVar.ipynb:
     generates the domain organization and ClinVar significance heatmaps
-- plot_MCF10A_LOF_scores (heatmap).ipynb:\
-    generates the heatmap for visualizing LOF scores\
+- plot_MCF10A_LOF_scores (heatmap).ipynb:
+    generates the heatmap for visualizing LOF scores
        
 2. Fig. 4
 - plot_plot_western_stability.ipynb:\
