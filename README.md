@@ -26,9 +26,9 @@ Requirements: Python 3 with Jupyter Notebook
     generates the data for Fig. 6A
 - plot_SVM_classification.ipynb:\
     generates the plot in Fig. 6B from SVM classification
-- ROC_PRC_BINARY.ipynb:\
+- plot_ROC_PRC_BINARY.ipynb:\
     generates the ROC curves for binary classification in Fig. 6C
-- ROC_multiclass.ipynb:\
+- plot_ROC_multiclass.ipynb:\
     generates the ROC curves for multiclass classification in Fig. 6D
 - compare_LOF_vs_predictions.ipynb:\
     compares LOF scores to CADD, SNAP2, PolyPhen-2 and SIFT\
