@@ -32,5 +32,5 @@ The following files accompany the PTEN functionalization manuscript
     generates the ROC curves for multiclass classification in Fig. 6D
 - compare_LOF_vs_predictions.ipynb:\
     compares LOF scores to CADD, SNAP2, PolyPhen-2 and SIFT\
-    generates the graphs in Fig. 6E
+    generates the graphs in Fig. 6E
         
