@@ -6,11 +6,11 @@ codes that accompany the PTEN functionalization manuscript\
        generates the domain organization and ClinVar significance heatmaps
    - plot_MCF10A_LOF_scores (heatmap).ipynb:\
        generates the heatmap for visualizing LOF scores\
-Fig. 4\
+2. Fig. 4
         - plot_plot_western_stability.ipynb:\
-            generates the graph in Fig. 4A\
+            generates the graph in Fig. 4A\
         - PTEN_stability_LR.ipynb:\
-            computes logistic regression on the mean normalized stability scores\
+            computes logistic regression on the mean normalized stability scores\
             generates the graph in Fig. 4B\
         - comapre_stability_HEK_SDM.ipynb:\
             compares stability scores from MCF10A cells, HEK cells and SDM predictions\
