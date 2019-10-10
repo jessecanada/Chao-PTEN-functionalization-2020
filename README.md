@@ -8,7 +8,7 @@ Requirements: Python 3 with Jupyter Notebook
     generates the heatmap for visualizing LOF scores
        
 2. Fig. 4
-- plot_western_stability.ipynb:\
+- plot_MCF10A_stability.ipynb:\
     generates the graph in Fig. 4A
 - PTEN_stability_LR.ipynb:\
     computes logistic regression on the mean normalized stability scores\
