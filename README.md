@@ -10,7 +10,7 @@ Requirements: Python 3 with Jupyter Notebook
 2. Fig. 4
 - plot_MCF10A_stability.ipynb:\
     generates the graph in Fig. 4A
-- PTEN_stability_LR.ipynb:\
+- MCF10A_stability_LR.ipynb:\
     computes logistic regression on the mean normalized stability scores\
     generates the graph in Fig. 4B
 - comapre_stability_HEK_SDM.ipynb:\
