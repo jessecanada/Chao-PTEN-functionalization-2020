@@ -1,5 +1,5 @@
 # Chao-PTEN-functionalization-2019
-The following files accompany the PTEN functionalization manuscript
+The following files accompany the PTEN functionalization manuscript\
 Requirements: Python 3 with Jupyter Notebook
 1. Fig. 3
 - plot_domain_ClinVar.ipynb:\
