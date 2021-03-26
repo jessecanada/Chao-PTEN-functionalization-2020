@@ -1,4 +1,6 @@
-# Chao-PTEN-functionalization-2019
+# Chao-PTEN-functionalization-2020
+Manuscript link (July 2020 cover!): https://cancerres.aacrjournals.org/content/80/13/2775
+
 The following files accompany the PTEN functionalization manuscript\
 Requirements: Python 3 with Jupyter Notebook
 1. Fig. 3
